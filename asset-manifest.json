@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/queueDS-App/static/css/main.0e1a17e5.css",
+    "main.js": "/queueDS-App/static/js/main.85408146.js",
+    "index.html": "/queueDS-App/index.html",
+    "main.0e1a17e5.css.map": "/queueDS-App/static/css/main.0e1a17e5.css.map",
+    "main.85408146.js.map": "/queueDS-App/static/js/main.85408146.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e1a17e5.css",
+    "static/js/main.85408146.js"
+  ]
+}
